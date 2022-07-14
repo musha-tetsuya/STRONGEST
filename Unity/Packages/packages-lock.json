@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.musha.system": {
+      "version": "https://github.com/musha-tetsuya/MushaSystem.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "88f103856053f40e24a02ad36b1c3aec5de76d45"
+    },
     "com.unity.collab-proxy": {
       "version": "1.15.18",
       "depth": 0,
